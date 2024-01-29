@@ -1,4 +1,4 @@
-# web stack implementation
+# LAMP stack implementation
 This is a comprehensive program designed seeking to build and deploy web application using the LAMP stack. There are different stack of technology that make different solution possible. These stacks of technology are known as web stack. Example of web stack includes LAMP(Linux, Apache, Mysql and PHP), LEMP (Linux, Nginx, Mysql and PHP), MEAN (MongoDB, ExpressJS, ANgularJS NodeJS) and MERN (MongoDB,ExpressJS, ReactJS and NodeJS)
 
 ## Creating an instance ec2
